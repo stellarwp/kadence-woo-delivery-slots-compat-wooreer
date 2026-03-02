@@ -1,14 +1,14 @@
 <?php
 /**
- * Plugin Name:       Iconic WDS compatibility plugin [WooReer]
+ * Plugin Name:       Kadence WDS compatibility plugin [WooReer]
  * Plugin URI:        https://iconicwp.com/products/woocommerce-delivery-slots/?utm_source=iconicwp&utm_medium=plugin&utm_campaign=iconic-wds-compat-wooreer
- * Description:       Compatibility between {Delivery Slots by Iconic} and WooReer.
- * Author:            Iconic
- * Author URI:        https://iconicwp.com/?utm_source=iconicwp&utm_medium=plugin&utm_campaign=iconic-wds-compat-wooreer
+ * Description:       Compatibility between {Delivery Slots by Kadence} and WooReer.
+ * Author:            Kadence WP
+ * Author URI:        https://www.kadencewp.com/
  * Text Domain:       iconic-compat-18055
  * Domain Path:       /languages
  * Version:           0.1.0
- * GitHub Plugin URI: iconicwp/iconic-wds-compat-wooreer
+ * GitHub Plugin URI: stellarwp/kadence-wds-compat-wooreer
  *
  * Use a random 5 digit number to prevent conflicts. This is used
  * for function name prefixes (iconic_compat_{54494}_) and the
