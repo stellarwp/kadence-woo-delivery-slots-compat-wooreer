@@ -3,7 +3,7 @@
  * Plugin Name:       Kadence WDS compatibility plugin [WooReer]
  * Plugin URI:        https://iconicwp.com/products/woocommerce-delivery-slots/?utm_source=iconicwp&utm_medium=plugin&utm_campaign=iconic-wds-compat-wooreer
  * Description:       Compatibility between {Delivery Slots by Kadence} and WooReer.
- * Author:            Kadence WP
+ * Author:            Kadence
  * Author URI:        https://www.kadencewp.com/
  * Text Domain:       iconic-compat-18055
  * Domain Path:       /languages
