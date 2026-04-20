@@ -1,6 +1,6 @@
 # Description
 
-This is a compatibility plugin for [WooCommerce Delivery Slots](https://iconicwp.com/products/woocommerce-delivery-slots/?utm_source=Iconic&utm_medium=Github&utm_campaign=iconic-woo-delivery-slots-compat-wooreer)  by Iconic and [WooReer](https://wordpress.org/plugins/wcsdm/) by Sofyan Sitorus.
+This is a compatibility plugin for [WooCommerce Delivery Slots](https://iconicwp.com/products/woocommerce-delivery-slots/?utm_source=Iconic&utm_medium=Github&utm_campaign=iconic-woo-delivery-slots-compat-wooreer)  by Kadence and [WooReer](https://wordpress.org/plugins/wcsdm/) by Sofyan Sitorus.
 
 # Changelog
 
